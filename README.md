@@ -2,4 +2,4 @@
 
 update azuma
 
-feature_init
+feature_init azuma
